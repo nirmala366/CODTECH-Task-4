@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Productivity Manager",
+  "version": "1.0",
+  "description": "Manage your daily tasks and track your productivity.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
